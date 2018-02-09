@@ -108,7 +108,7 @@ That would filter down to this:
 - Rye Whiskey
 ```
 
-We can't forget about Scotch, but since its spelled `whiskey`, our condition filters it out.
+We can't forget about Scotch, but since our condition is spelled `whiskey`, it is filtered out.
 
 Let's use a regular expression to make that `e` optional.
 
@@ -118,7 +118,7 @@ Let's use a regular expression to make that `e` optional.
 {{ /collection:drinks }}
 ```
 
-Now Scotch will be in the list, and we can sleep soundly knowing that no whiskey was forgotten.
+Now Scotch Whisky will be in the list, and we can sleep soundly knowing that no whiskey was forgotten.
 
 If you want narrow your results further you can repeat conditions as many times as needed.
 
