@@ -6,7 +6,7 @@ kb_categories:
 ---
 ## The Blade Templating Language
 
-You can find out how to use Blade, the templating language over on the [Laravel docs](https://laravel.com/docs/5.2/blade).
+You can find out how to use Blade, the templating language over on the [Laravel docs](https://laravel.com/docs/blade).
 Here we'll be explaining how to use it in the context of Statamic.
 
 ## Using in a theme
