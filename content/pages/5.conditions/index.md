@@ -66,7 +66,7 @@ my_field:exists="true"
 ```
 
 For negative boolean conditions, _don't_ use `="false"`. Instead, pick the opposite condition.  
-For example, `:exists` vs. `:doesnt_exists`.
+For example, `:exists` vs. `:doesnt_exist`.
 
 ```
 <!-- Don't do this: -->
